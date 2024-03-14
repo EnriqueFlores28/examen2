@@ -10,6 +10,8 @@ export default function App() {
   );
 }
 
+console.console.log("ola");
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
